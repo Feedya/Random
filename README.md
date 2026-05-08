@@ -1,6 +1,6 @@
 # 📜 RANDOM
 
-"PUSHEZ CE QUE VOUS VOULEZ."
+"PUSH WHAT YOU WANT."
 
 ## 🌍 OPEN CONTRIBUTIONS
 
@@ -14,7 +14,7 @@ This repository is a sanctuary of absolute creative freedom. You are heartily in
 
 ## 🚀 À propos du Projet
 
-On va essayer de faire qqc de grand et beau, pushez ce que vous voulez. N'importe qui peut **forker** ce projet et proposer des **pull requests** ; je m'engage à les accepter pour enrichir notre œuvre commune.
+We are going to strive to create something grand and beautiful, so feel free to push whatever you desire!  Anyone is welcome to fork this project and submit pull requests; 🍴💻 I pledge to accept them to enrich our common masterpiece.
 
 ---
 
@@ -22,4 +22,6 @@ On va essayer de faire qqc de grand et beau, pushez ce que vous voulez. N'import
 
 *   **Fedor** — Grand Architecte
 *   **Fedor** — Contributeur de talent
-*   **Ciro Cantilli** - Greatest One Man Army against China (Xi Jin Ping) 
+*   **Ciro Cantilli** - Greatest One Man Army against China (Xi Jin Ping)
+*   **Simon Renaud** - Digital Homeless
+*   **Nelson** - Nvim
